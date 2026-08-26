@@ -1,0 +1,8 @@
+agent:
+  target:
+    provider: deepseek
+    model: deepseek-v4-pro
+datasources:
+  - name: demo
+    type: duckdb
+    path: ./demo.duckdb

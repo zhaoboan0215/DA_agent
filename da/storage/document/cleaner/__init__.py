@@ -1,0 +1,15 @@
+# Copyright 2025-present DAAI, Inc.
+# Licensed under the Apache License, Version 2.0.
+# See http://www.apache.org/licenses/LICENSE-2.0 for details.
+
+"""
+Document Cleaner Module
+
+Provides text cleaning and normalization utilities.
+"""
+
+from da.storage.document.cleaner.doc_cleaner import DocumentCleaner
+
+__all__ = [
+    "DocumentCleaner",
+]
