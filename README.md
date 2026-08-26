@@ -1,3 +1,4 @@
+<img width="1469" height="878" alt="截屏2026-08-26 11 13 15" src="https://github.com/user-attachments/assets/361f4bc9-89d3-4b79-9d17-02ab9de810ea" />
 # DA
 
 > 面向数据工程与业务分析的智能数据工作台：用自然语言连接数据库、生成并执行 SQL、检索语义上下文，并将分析过程组织为可追踪的多步骤工作流。
@@ -28,6 +29,8 @@ DA 面向数据工程师、数据分析师和需要自助取数的业务团队�
 - 桌面端与移动端响应式布局
 
 Web 页面入口位于 `da/cli/web/templates/index.html`，继续复用现有 FastAPI 服务和聊天组件协议。
+<img width="1469" height="877" alt="截屏2026-08-26 11 14 28" src="https://github.com/user-attachments/assets/0f8eb0ae-7b66-4498-8238-034cc170d079" />
+
 
 ## 系统架构
 
