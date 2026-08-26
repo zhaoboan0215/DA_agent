@@ -1,4 +1,3 @@
-<img width="1469" height="878" alt="截屏2026-08-26 11 13 15" src="https://github.com/user-attachments/assets/361f4bc9-89d3-4b79-9d17-02ab9de810ea" />
 # DA
 
 > 面向数据工程与业务分析的智能数据工作台：用自然语言连接数据库、生成并执行 SQL、检索语义上下文，并将分析过程组织为可追踪的多步骤工作流。
